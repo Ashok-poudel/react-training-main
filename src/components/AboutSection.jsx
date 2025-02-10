@@ -32,7 +32,7 @@ const AboutSection = () => {
           className="text-3xl font-bold mb-8 text-center text-gray-800"
           {...motionSettings.fadeIn}
         >
-          About Me
+          About us
         </motion.h2>
         <div className="flex flex-col md:flex-row items-center justify-between">
           <motion.div
